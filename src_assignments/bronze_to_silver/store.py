@@ -22,4 +22,4 @@ output_store_location = f'dbfs:/mnt/silver/sales_view/store'
 
 write_delta_upsert(formatted_dates_df, output_store_location)
 
-
+# command
