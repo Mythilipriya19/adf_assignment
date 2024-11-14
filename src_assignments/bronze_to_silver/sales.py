@@ -14,5 +14,5 @@ sales_output_location = 'dbfs:/mnt/silver/sales_view/customer_sales'
 write_delta_upsert(sales_data_snake_case_df, sales_output_location)
 
 
-
+# code
 
