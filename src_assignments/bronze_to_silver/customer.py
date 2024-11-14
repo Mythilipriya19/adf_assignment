@@ -33,3 +33,5 @@ output_location = 'dbfs:/mnt/silver/sales_view/customer'
 
 
 expenditure_category_df.write.format('delta').save(output_location)
+
+# command file
