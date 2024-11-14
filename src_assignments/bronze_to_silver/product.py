@@ -28,4 +28,4 @@ output_location = 'dbfs:/mnt/silver/sales_view/product'
 
 write_delta_upsert(product_with_sub_category_df, output_location)
 
-
+# command
